@@ -1,0 +1,14 @@
+{
+    "name": "innovance-server",
+    "version": "1.0.0",
+    "description": "innovance server with fake database",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Burak Özdemir",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.16.3"
+    }
+}
