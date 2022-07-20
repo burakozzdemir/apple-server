@@ -9,6 +9,6 @@
     "author": "Burak Özdemir",
     "license": "ISC",
     "dependencies": {
-        "json-server": "^0.16.3"
+    "json-server": "^0.16.3"
     }
 }
