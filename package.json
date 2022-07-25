@@ -1,7 +1,7 @@
 {
-    "name": "innovance-server",
+    "name": "apple-server",
     "version": "1.0.0",
-    "description": "innovance server with fake database",
+    "description": "apple server",
     "main": "server.js",
     "scripts": {
         "start": "node server.js"
