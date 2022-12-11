@@ -8,3 +8,9 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+app.use(function(_req, res, next) {
+    res.header("Access-Control-Allow-Origin", "https://innovance-app.vercel.app");
+    next();
+  });
+  
